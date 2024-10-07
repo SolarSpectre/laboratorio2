@@ -1,4 +1,4 @@
-#Laboratorio 2
+## Laboratorio 2
 
 Familiarizarse con el lenguaje de intercambio de información y el consumo de varias
 APIs FAKE tipo RESTFUL
